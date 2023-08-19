@@ -1,0 +1,15 @@
+
+
+add latest top 10 movies section make it responsive
+add watch list using localstorage
+make popup of every movies with trailer and details
+add rating
+make setting page
+add search + recommendation
+add landing page
+take user input about his mood and recommend movies
+show the imdb/user rating
+
+
+to add seach button animation
+
